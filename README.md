@@ -1,6 +1,8 @@
 # DataAnalysisHelsinkiUni
 Data analysis Python course: https://csmastersuh.github.io/data_analysis_with_python_2020/index.html
 
+![alt text](https://www.studyinfinland.fi/sites/default/files/styles/logo_image/public/2018-10/HY%20logo_0.png?itok=5PaKTNB6)
+
 Week 1:
 Python
 Basic concepts
